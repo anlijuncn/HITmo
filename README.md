@@ -1,2 +1,2 @@
 # pyHarmony
-A python package harmonizing brain imaging data
+A python package for harmonizing brain imaging data
