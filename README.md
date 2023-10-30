@@ -1,2 +1,2 @@
-# Harmonization for Brain Imaging (HBI)
-A python package for harmonizing brain imaging data
+# Harmonization for Brain Imaging Data (HBIT)
+A Python package for harmonizing brain imaging data
