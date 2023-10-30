@@ -1,2 +1,2 @@
-# Harmonization for Brain Imaging Data (HaBit)
+# Harmonization for Brain imaging (HaBi)
 A Python package for harmonizing brain imaging data
