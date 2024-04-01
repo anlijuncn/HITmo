@@ -1,1 +1,1 @@
-# Harmonization for Neuroimaging data
+# Harmonization for Multi-Omics data (HAMO)
