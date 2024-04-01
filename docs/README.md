@@ -1,1 +1,3 @@
-# Harmonization for Multi-Omics data (HAMO)
+# HArmonization for Multi-Omics (HAMO)
+---
+
