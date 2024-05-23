@@ -1,3 +1,3 @@
-# HArmonization for Multi-Omics (HAMO)
+# Multi-Omics HArmonization (moha) documenations
 ---
 
