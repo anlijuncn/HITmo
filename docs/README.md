@@ -1,3 +1,3 @@
-# Multi-Omics HArmonization (moha) documenations
+# HITmo documentation
 ---
 
